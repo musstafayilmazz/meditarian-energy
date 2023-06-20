@@ -1,0 +1,15 @@
+Multi-Criteria Decision Analysis (MCDA) -> Problem
+Analytic Hierarchy Process (AHP) method -> Kullanıldı
+
+Seçim kriterleri için pairwise decision matrix kullanıldı
+Belirtilen çiftli karşılaştırmalar ile hiyerarşik yapı oluşturuldu.
+
+Weights ile ağırlık yapısı düzenlendi
+
+Bu karşılaştırmalar ile belirtilen 777 nokta üzerinden en optimum 20 nokta seçildi
+
+Karşılaştırılan noktaların ağırlıklı uzaklığı hesaplandı
+
+En önemli 20 nokta harita üzerinde işaretlendi
+
+

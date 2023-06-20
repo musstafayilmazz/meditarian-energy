@@ -1,0 +1,6 @@
+Trafolar - OpenStreetMaps
+Limanlar-https://www.gccports.com/ports/latitude-longitude/
+Rüzgar Hızı - Dalga Yüksekliği - Karaya Mesafe
+Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., Nicolas, J., Peubey, C., Radu, R., Rozum, I., Schepers, D., Simmons, A., Soci, C., Dee, D., Thépaut, J-N. (2023): ERA5 monthly averaged data on single levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.f17050d7 (Accessed on 05-05-2023)
+Deniz Derinliği - Tabandaki Tuzluluk Oranı
+Copernicus Climate Change Service, Climate Data Store, (2021): ORAS5 global ocean reanalysis monthly data from 1958 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS). DOI: 10.24381/cds.67e8eeb7 (Accessed on 05-05-2023)

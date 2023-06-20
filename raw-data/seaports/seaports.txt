@@ -1,0 +1,71 @@
+Seaport Name	Seaport Code	Country	Latitude	Longitude
+Adalia	TRAYT	Turkey	36°52'N	30°46'E
+Ambarli	TRAMB	Turkey	40°58'N	28°42'E
+Antalya	TRAYT	Turkey	36°52'N	30°46'E
+Bodrum	TRBOD	Turkey	37°02'N	27°27'E
+Budrum	TRBOD	Turkey	37°02'N	27°27'E
+Canakkale	TRCKZ	Turkey	40°08'N	26°24'E
+Cesme	TRCES	Turkey	38°25'N	27°08'E
+Ceyhan	TRCEY	Turkey	36°53'N	35°56'E
+Derince	TRDRC	Turkey	40°45'N	29°48'E
+Edincik	TREDK	Turkey	40°21'N	27°50'E
+Fethiye	TRFET	Turkey	36°38'N	29°09'E
+Gemlik	TRGEM	Turkey	40°25'N	29°05'E
+Golcuk	TRGOK	Turkey	40°43'N	29°47'E
+Gueldjuk	TRGOK	Turkey	40°43'N	29°47'E
+Haydarpasa	TRHAY	Turkey	41°00'N	29°02'E
+Hopa	TRHOP	Turkey	41°25'N	41°24'E
+Iskenderun	TRISK	Turkey	36°35'N	36°10'E
+Istanbul	TRIST	Turkey	41°01'N	28°57'E
+Izmir	TRCES	Turkey	38°25'N	27°08'E
+Izmit	TRIZT	Turkey	40°46'N	29°54'E
+Kartal	TRKAR	Turkey	40°53'N	29°10'E
+Marmarice	TRMRM	Turkey	36°50'N	28°19'E
+Marmaris	TRMRM	Turkey	36°50'N	28°19'E
+Mersin	TRMER	Turkey	36°47'N	34°37'E
+Mersing	TRMER	Turkey	36°47'N	34°37'E
+Samsun	TRSSX	Turkey	41°19'N	36°20'E
+Sinop	TRSIN	Turkey	42°02'N	35°11'E
+Akrotiri	CYAKT	Cyprus	34°35'N	32°57'E
+Dhekelia	CYDHK	Cyprus	34°58'N	33°43'E
+Episcopi	CYEPI	Cyprus	34°40'N	32°53'E
+Famagusta	CYFMG	Cyprus	35°07'N	33°56'E
+Gemikonagi	CYMPB	Cyprus	35°08'N	32°49'E
+Larnaca	CYLCA	Cyprus	34°54'N	33°39'E
+Limassol	CYLMS	Cyprus	34°40'N	33°02'E
+Moni Anchorage	CYMOI	Cyprus	34°42'N	33°11'E
+Morphou Bay	CYMPB	Cyprus	35°08'N	32°49'E
+Paphos	CYPFO	Cyprus	34°45'N	32°25'E
+Xeros	GRXER	Cyprus	35°08'N	32°48'E
+Ashdod	ILASH	Israel	31°49'N	34°38'E
+Eilat	ILETH	Israel	29°33'N	34°57'E
+Haifa	ILHFA	Israel	32°49'N	34°00'E
+Jaffa	ILJFA	Israel	32°05'N	34°49'E
+Sukrier	ILSUK	Israel	31°45'N	34°35'E
+Tel Aviv	ILTAV	Israel	32°05'N	34°44'E
+Beirut	LBBEY	Lebanon	33°54'N	35°30'E
+Sidon	LBSDN	Lebanon	33°30'N	35°20'E
+Tripoli (Leb)	LBTIO	Lebanon	34°28'N	35°48'E
+Abu Zenima	EGABZ	Egypt	29°02'N	33°07'E
+Ain Sukhna	EGAIS	Egypt	29°32'N	32°24'E
+Alexandria	EGALY	Egypt	31°11'N	29°52'E
+El Alamein	EGMAN	Egypt	30°59'N	28°52'E
+El Tor	EGTOR	Egypt	28°14'N	33°36'E
+Fanara	EGFAN	Egypt	30°17'N	32°22'E
+Fayid	EGFAD	Egypt	30°20'N	32°17'E
+Hurghada	EGHRG	Egypt	27°14'N	33°49'E
+Kosseir	EGKOS	Egypt	26°06'N	34°16'E
+Marsa El Hamra	EGMAN	Egypt	30°59'N	28°52'E
+Port Said	EGPSD	Egypt	31°15'N	32°17'E
+Quseir	EGKOS	Egypt	26°06'N	34°16'E
+Ras Budran	EGRBU	Egypt	26°56'N	33°08'E
+Ras Gharib	EGRAG	Egypt	28°21'N	33°05'E
+Ras Shukheir	EGRSH	Egypt	28°08'N	33°16'E
+Ras Sudr	EGRSU	Egypt	29°35'N	32°41'E
+Safaga	EGSGA	Egypt	26°44'N	34°00'E
+Sidi Kerir	EGSIK	Egypt	31°06'N	29°37'E
+Sudr	EGRSU	Egypt	29°35'N	32°41'E
+Suez	EGSUZ	Egypt	29°58'N	32°32'E
+Tor	EGTOR	Egypt	28°14'N	33°36'E
+Wadi Feiran	EGWAF	Egypt	28°44'N	33°12'E
+Zeit Bay	EGZEI	Egypt	27°50'N	33°36'E

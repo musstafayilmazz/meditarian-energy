@@ -1,0 +1,471 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-05-05T12:28:04Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81614443",
+        "name": "19. Bölge Müdürlüğü Antalya Manavgat Trafo Merkezi",
+        "operator": "TEAİŞ",
+        "power": "substation",
+        "source": "bing",
+        "voltage": "154000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4511319,
+          36.8047888
+        ]
+      },
+      "id": "way/81614443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131316122",
+        "name": "trafo",
+        "power": "substation",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3675681,
+          37.059589
+        ]
+      },
+      "id": "way/131316122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190641370",
+        "name": "TEİAŞ 154000 Volt Finike Trafo Merkezi",
+        "power": "substation",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1440565,
+          36.3178276
+        ]
+      },
+      "id": "way/190641370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306116205",
+        "building": "yes",
+        "name": "Trafo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2000448,
+          36.5708714
+        ]
+      },
+      "id": "way/306116205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396662883",
+        "name": "Trafo Merkezi",
+        "power": "substation",
+        "voltage": "154000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.220175,
+          36.9268621
+        ]
+      },
+      "id": "way/396662883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462871800",
+        "name": "Trafo",
+        "power": "substation",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9835493,
+          36.0868033
+        ]
+      },
+      "id": "way/462871800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462871802",
+        "building": "yes",
+        "name": "Trafo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9727887,
+          36.095389
+        ]
+      },
+      "id": "way/462871802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475908806",
+        "building": "yes",
+        "name": "Trafo",
+        "power": "transformer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6181225,
+          37.1819471
+        ]
+      },
+      "id": "way/475908806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475908807",
+        "building": "yes",
+        "name": "Trafo",
+        "power": "transformer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6131556,
+          37.1860968
+        ]
+      },
+      "id": "way/475908807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484549839",
+        "building": "yes",
+        "name": "Elektrik Trafo",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4473874,
+          36.7620965
+        ]
+      },
+      "id": "way/484549839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484561375",
+        "building": "yes",
+        "name": "Elektrik Trafo",
+        "source": "knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4672282,
+          36.7923105
+        ]
+      },
+      "id": "way/484561375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558287668",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "TEİAŞ 154000 Volt Elmalı Trafo Merkezi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9261482,
+          36.7088909
+        ]
+      },
+      "id": "way/558287668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/810318487",
+        "name": "Trafo Merkezi",
+        "power": "substation",
+        "voltage": "380000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0198067,
+          37.4630648
+        ]
+      },
+      "id": "way/810318487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824089203",
+        "building": "yes",
+        "name": "Trafo",
+        "power": "transformer",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.954042,
+          36.5593864
+        ]
+      },
+      "id": "way/824089203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1139758965",
+        "building": "yes",
+        "name": "trafo",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1635744,
+          36.2318004
+        ]
+      },
+      "id": "way/1139758965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1140185166",
+        "building": "yes",
+        "name": "trafo",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1622076,
+          36.2332805
+        ]
+      },
+      "id": "way/1140185166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1140685423",
+        "landuse": "industrial",
+        "name": "Adana Samandağ Trafo Merkezi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0140533,
+          36.055707
+        ]
+      },
+      "id": "way/1140685423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1141326005",
+        "addr:city": "Kahramanmaraş",
+        "addr:district": "Elbistan",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "Karaelbistan",
+        "addr:postcode": "46300",
+        "addr:street": "İstiklal Cd.",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Elektrik trafosu",
+        "source": "microsoft/BuildingFootprints;aerial imagery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1575072,
+          38.2062626
+        ]
+      },
+      "id": "way/1141326005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1141585770",
+        "building": "yes",
+        "name": "Elektrik Trafo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9092852,
+          38.2417185
+        ]
+      },
+      "id": "way/1141585770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1141988286",
+        "building": "yes",
+        "name": "Trafo-Jenaratör",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1307336,
+          36.1421432
+        ]
+      },
+      "id": "way/1141988286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1150736279",
+        "building": "yes",
+        "name": "Trafo Binası",
+        "power": "substation",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9233576,
+          37.5588822
+        ]
+      },
+      "id": "way/1150736279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5214532673",
+        "name": "Kayabaşı Köyü Trafosu",
+        "operator": "TEDAŞ",
+        "power": "substation",
+        "substation": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6377613,
+          36.6004547
+        ]
+      },
+      "id": "node/5214532673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149616756",
+        "name": "Trafo Bölümü",
+        "power": "transformer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6209953,
+          36.8158972
+        ]
+      },
+      "id": "node/6149616756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6284136771",
+        "name": "Trafo",
+        "power": "transformer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6248744,
+          36.8232142
+        ]
+      },
+      "id": "node/6284136771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10222065094",
+        "name": "Trafo",
+        "power": "transformer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6551889,
+          37.1735614
+        ]
+      },
+      "id": "node/10222065094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10836880793",
+        "name": "Trafo",
+        "power": "transformer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6409447,
+          36.8658516
+        ]
+      },
+      "id": "node/10836880793"
+    }
+  ]
+}
